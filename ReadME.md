@@ -8,3 +8,5 @@ Solution approach
 1. Find the neighborhood with the most listings
 2. Find the month with the highest availibility
 3. Find the most the expensive listing 
+
+Blog post : https://medium.com/@thatorammoko/traveling-to-seattle-2e8cc3ad0011
