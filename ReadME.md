@@ -10,3 +10,20 @@ Solution approach
 3. Find the most the expensive listing 
 
 Blog post : https://medium.com/@thatorammoko/traveling-to-seattle-2e8cc3ad0011
+
+Libraries used
+ 1. numpy 
+ 2. pandas
+ 3. date time
+ 4. matplotlib
+
+
+File description
+AirBnB.ipynb - Notebook containing the data analysis
+dataset\calendar. - csv containing listing information related to date and availability
+dataset\listings.csv - csv containing house lisfting info
+dataset\reviews.csv - cas containing review information
+
+
+This dataset is part of Airbnb Inside
+
